@@ -16,6 +16,6 @@ The calendar action currently uses a one-hour duration because no event end time
 
 ## Before launch
 
-- Replace `[Phone to be provided]`, `[Email to be provided]`, `[WhatsApp contact to be provided]`, and the two biography placeholders.
+- Replace `[Phone to be provided]`, `[Email to be provided]`, `[WhatsApp contact to be provided]`, Pastor Nana Kojo's `[church name to be provided]`, and add his portrait.
 - Set the actual Netlify domain in `gatherings/edify-2026-12-05/index.html`, `robots.txt`, and `sitemap.xml`.
 - Submit a test to each form and confirm it appears in the Netlify Forms dashboard.
